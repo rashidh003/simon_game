@@ -14,10 +14,10 @@ Game Logic: The core game logic is implemented with a focus on accuracy and adhe
 ### Technologies Used:
 
 >  <ul>
->   <li>**HTML5**</li>
->   <li>**CSS3**</li>
->   <li> **jQuery**</li>
->   <li>**Asynchronous JavaScript**</li>
+>   <li>HTML5</li>
+>   <li>CSS3</li>
+>   <li>jQuery</li>
+>   <li>Asynchronous JavaScript</li>
 >  </ul>
 
 
